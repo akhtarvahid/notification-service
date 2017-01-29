@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="6206652192685"
+    token="-94134344212048206"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="117" />
+    <task
+        name="instant-run-dex"
+        duration="12" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="5216277529146"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5913567845071"
+        verifier="IMPLEMENTED_INTERFACES_CHANGE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="5981348791828"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/builds/debug/5981348791828/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6066827538417"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/builds/debug/6066827538417/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6108586916589"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/builds/debug/6108586916589/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6158070621306"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/builds/debug/6158070621306/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6185649193166"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/builds/debug/6185649193166/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6206652192685"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
