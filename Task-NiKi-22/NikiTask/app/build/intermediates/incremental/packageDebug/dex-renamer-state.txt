@@ -1,7 +1,0 @@
-#Sun Jan 22 11:13:30 IST 2017
-base.0=/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97562db130ec42a3f23467947ad88b134369911a
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ece4e0a97eddd40f19fedfc437c65be7328d134f/classes.dex
-base.1=/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ece4e0a97eddd40f19fedfc437c65be7328d134f
-file.0=/home/vaheed/PROJECTS/NikiTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97562db130ec42a3f23467947ad88b134369911a/classes.dex
