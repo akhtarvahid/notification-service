@@ -2,6 +2,8 @@
 Download and install Kafka
 https://learn.conduktor.io/kafka/how-to-install-apache-kafka-on-mac/
 
+### How to Install Apache Kafka on Mac?
+[Kafka](https://learn.conduktor.io/kafka/how-to-install-apache-kafka-on-mac/)
 Install kafka
 ```bash
 brew install kafka
